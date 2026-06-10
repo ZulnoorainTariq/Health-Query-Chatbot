@@ -11,6 +11,7 @@ Mistral AI (mistral-small-latest) via API
 - Prompt Engineering for friendly responses
 - Safety filters to block harmful questions
 - Doctor consultation advice in every response
+- API key secured using .env file
 
 ## Example Queries
 - What causes a sore throat?
@@ -18,9 +19,9 @@ Mistral AI (mistral-small-latest) via API
 - What are the symptoms of diabetes?
 
 ## Key Results
-- Real AI powered responses using Mistral API
+- Real AI powered responses using Mistral AI API
 - Harmful questions blocked immediately
 - Friendly and clear medical information provided
 
 ## Libraries Used
-requests
+requests, python-dotenv
